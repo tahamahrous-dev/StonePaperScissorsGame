@@ -70,29 +70,16 @@ g++ FirstProject_StonePaperScissorsGame.cpp -o StonePaperScissors
 ## 📸 Screenshots
 
 ### 💻 Computer wins
-![Computer wins](images/computer_wins.png)
-HEAD
-
-### 🏁 Final Game Summary
-![Final Results](images/final-results.png)
+![Computer wins](images\computer_wins.JPG)
 
 ### 👨‍💻 Player Wins
-![Player Wins](images/player_wins.png)
+![Player Wins](images\player_wins.JPG)
 
 ### 🟨 Draw
-![Player Wins](images/draw.png)
-
-=======
-
-### 👨‍💻 Player Wins
-![Player Wins](images/player_wins.png)
-
-### 🟨 Draw
-![Player Wins](images/draw.png)
+![Draw](images\draw.JPG)
 
 ### 🏁 Final Game Summary
-![Final Results](images/final_results.png)
-049b41f1e461df2325b26a088cd5bfc86d37cfef
+![Final Results](images\final-game-summary.JPG)
 
 ---
 
