@@ -69,13 +69,18 @@ g++ FirstProject_StonePaperScissorsGame.cpp -o StonePaperScissors
 
 ## 📸 Screenshots
 
-### 🎮 Gameplay Interface
-![Gameplay Screenshot](images/gameplay-screenshot.png)
+### 💻 Computer wins
+![Computer wins](images/computer_wins.png)
 
 ### 🏁 Final Game Summary
-![Final Results Screenshot](images/final-results-screenshot.png)
+![Final Results](images/final-results.png)
 
-> You can update the `/images/` folder with your actual screenshots.
+### 👨‍💻 Player Wins
+![Player Wins](images/player_wins.png)
+
+### 🟨 Draw
+![Player Wins](images/draw.png)
+
 
 ---
 
