@@ -71,6 +71,7 @@ g++ FirstProject_StonePaperScissorsGame.cpp -o StonePaperScissors
 
 ### 💻 Computer wins
 ![Computer wins](images/computer_wins.png)
+HEAD
 
 ### 🏁 Final Game Summary
 ![Final Results](images/final-results.png)
@@ -81,6 +82,17 @@ g++ FirstProject_StonePaperScissorsGame.cpp -o StonePaperScissors
 ### 🟨 Draw
 ![Player Wins](images/draw.png)
 
+=======
+
+### 👨‍💻 Player Wins
+![Player Wins](images/player_wins.png)
+
+### 🟨 Draw
+![Player Wins](images/draw.png)
+
+### 🏁 Final Game Summary
+![Final Results](images/final_results.png)
+049b41f1e461df2325b26a088cd5bfc86d37cfef
 
 ---
 
@@ -129,7 +141,7 @@ Feel free to open an issue or leave a comment!
 
 ## 🙏 Credits
 
-Created as part of a Algorithms_Problem_Solving_Level_2 course with guidance from **Dr. Mohammed Abu-Hadhoud**.  
+Created as part of a Algorithms_Problem_Solving_Level_2 course with guidance from ***Dr. Mohammed Abu-Hadhoud***.  
 Designed for hands-on practice in algorithm design, decision-making, and struct management.
 
 ---
