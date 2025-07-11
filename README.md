@@ -70,16 +70,16 @@ g++ FirstProject_StonePaperScissorsGame.cpp -o StonePaperScissors
 ## 📸 Screenshots
 
 ### 💻 Computer wins
-![Computer wins](images\computer_wins.JPG)
+![Computer wins](./images/computer_wins.png)
 
 ### 👨‍💻 Player Wins
-![Player Wins](images\player_wins.JPG)
+![Player Wins](./images/player_wins.png)
 
 ### 🟨 Draw
-![Draw](images\draw.JPG)
+![Draw](./images/draw.png)
 
 ### 🏁 Final Game Summary
-![Final Results](images\final-game-summary.JPG)
+![Final Results](./images/final-game-summary.png)
 
 ---
 
